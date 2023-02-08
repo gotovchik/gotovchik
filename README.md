@@ -9,7 +9,7 @@ My name is Igor Gotovchik!
 - 🌱 I'm novice C# developer
 - :books: I’m currently learning OOP and SOLID Patterns, C# programm language and .Net Framework, Linux, SQL and Database, 
 - 📫 How to reach me: <a href="https://t.me/frzdbss"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" /></a>
-<a href="https://www.codewars.com/users/gotovchik"><img src="https://img.shields.io/badge/Codewars-darkred?logo=codewars&logoColor=white" /></a>
+- <a href="https://www.codewars.com/users/gotovchik"><img src="https://www.codewars.com/users/gotovchik/badges/small" /></a>
 
 ---  
 
