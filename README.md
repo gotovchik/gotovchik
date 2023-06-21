@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="150">
-I am Igor Gotovchik!  
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="150">  
 <a href="https://t.me/frzdbss"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" /></a>
 
 --- 
