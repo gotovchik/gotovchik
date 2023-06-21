@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=1000&color=F7A600&background=5428FF00&multiline=true&width=300&height=100&lines=Hi+where!%F0%9F%91%8B+I'm+Igor;+Student+programmer.)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="150">  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3200&pause=1000&color=F7A600&background=5428FF00&multiline=true&width=300&height=100&lines=Hi+where!%F0%9F%91%8B+I'm+Igor;+Student+programmer.)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="150">  
 <a href="https://t.me/frzdbss"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" /></a>
 
 --- 
