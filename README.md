@@ -1,17 +1,9 @@
 ### Hi there 👋
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="150">
-My name is Igor Gotovchik!  
-<img src="https://komarev.com/ghpvc/?username=gotovchik&style=flat-square&color=blue" alt=""/>
+I am Igor Gotovchik!  
+<a href="https://t.me/frzdbss"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" /></a>
 
----
-
-### :card_file_box: About me :
-- 🌱 I'm novice C# developer
-- :books: I’m currently learning OOP and SOLID Patterns, C# programm language and .Net Framework, Linux, SQL and Database, 
-- 📫 How to reach me: <a href="https://t.me/frzdbss"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" /></a>
-- <a href="https://www.codewars.com/users/gotovchik"><img src="https://www.codewars.com/users/gotovchik/badges/small" /></a>
-
----  
+--- 
 
 ### :hammer_and_wrench: My Languages and Tools :
 <div>
@@ -22,7 +14,6 @@ My name is Igor Gotovchik!
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
 </div> 
 
 ---     
