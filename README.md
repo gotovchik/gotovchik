@@ -5,8 +5,7 @@
 </div>
 
 <div align="center">
-  
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gotovchik/)
+
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/frzdbss)
   <br>
   <img src="https://komarev.com/ghpvc/?username=gotovchik&color=orange" alt="watching_count" />
@@ -47,10 +46,6 @@
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2700&pause=500&color=F7A600&multiline=true&width=150&height=60&lines=My+stats..." alt="Typing SVG" />
-  
-  [![Codewars Badge](https://www.codewars.com/users/gotovchik/badges/large)](https://www.codewars.com/users/gotovchik)
-  
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gotovchik&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gotovchik&show_icons=true&locale=en&theme=dark" alt="ovi" />\]
   <br>
