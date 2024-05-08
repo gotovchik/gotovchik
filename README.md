@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/1wpaCOVdglMSYgjCum/giphy.gif" width="300">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2700&pause=500&color=F7A600&multiline=true&width=300&height=60&lines=Hi+there!++My+name+is+Igor.;I+am+learning+front-end+web+development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2700&pause=600&color=F7A600&multiline=true&width=300&height=40&lines=Hi+there!++My+name+is+Igor" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3100&pause=800&color=F7A600&multiline=true&width=470&height=40&lines=I+am+learning+front-end+web+development" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,7 +27,7 @@
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2700&pause=500&color=F7A600&multiline=true&width=300&height=60&lines=To+do+this+I+use:" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2700&pause=500&color=F7A600&multiline=true&width=250&height=60&lines=To+do+this+I+use:" alt="Typing SVG" />
   
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
